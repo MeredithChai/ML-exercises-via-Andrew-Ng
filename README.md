@@ -5,8 +5,8 @@ The solutions to the exercises done during Machine Learning course by Andrew Ng 
 
 These are in programming language Octave/MATLAB.
 
-# Remake_via_Meredith 2018.12
-- Fork from "https://github.com/goswami-rahul/machine-learning-by-AndrewNg-exercises".
+# Exercise_remake_via_Meredith 2018.12
+- Original exercises forked from "https://github.com/goswami-rahul/machine-learning-by-AndrewNg-exercises".
 - Repair some of bugs.
 - Give out personal solutions by Octave/MATLAB only (JSON files #and associated toolbox# not included).
 - Make conclusions (and some useless demos?) at ".\ex_extra\" in TXT.
@@ -15,7 +15,6 @@ These are in programming language Octave/MATLAB.
 ## Repository Tree (after)
 ```bash
 .
-├── CS229_SupervisedLearning_and_LearningTheory.docx
 ├── ex_extra
 │   ├── ex3_apply it!
 │   │   ├── displayData.m
@@ -195,6 +194,7 @@ These are in programming language Octave/MATLAB.
 │   │   ├── token.mat
 │   │   └── visualizeFit.m
 │   └── ex8.pdf
+├── CS229_SupervisedLearning_and_LearningTheory.docx (*)
 └── README.md
 ```
 PS: (*) mark means profile is not finished right now, will be updated continuously.
