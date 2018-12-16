@@ -9,7 +9,7 @@ These are in programming language Octave/MATLAB.
 - Original exercises forked from "https://github.com/goswami-rahul/machine-learning-by-AndrewNg-exercises".
 - Repair some of bugs.
 - Give out personal solutions by Octave/MATLAB only (JSON files #and associated toolbox# not included).
-- Make conclusions (and some useless demos?) at ".\ex_extra\" in TXT.
+- Make conclusions (and some useless demos?) at ".\ex_extra\" in Chinese (hope it helps!).
 
 
 ## Repository Tree (after)
