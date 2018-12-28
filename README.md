@@ -29,7 +29,7 @@ These are in programming language Octave/MATLAB.
 │   ├── ex4_ReadMe.txt
 │   ├── ex5_ReadMe.txt
 │   ├── ex6_ReadMe.txt
-│   ├── ex7_ReadMe.txt (*)
+│   ├── ex7_ReadMe.txt
 │   └── ex8_ReadMe.txt (*)
 ├── machine-learning-ex1
 │   ├── ex1
@@ -146,7 +146,7 @@ These are in programming language Octave/MATLAB.
 │   │   ├── visualizeBoundary.m
 │   │   └── vocab.txt
 │   └── ex6.pdf
-├── machine-learning-ex7 (*)
+├── machine-learning-ex7
 │   ├── ex7
 │   │   ├── bird_small.mat
 │   │   ├── bird_small.png
