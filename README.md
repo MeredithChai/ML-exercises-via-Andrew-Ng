@@ -194,7 +194,8 @@ These are in programming language Octave/MATLAB.
 │   │   ├── token.mat
 │   │   └── visualizeFit.m
 │   └── ex8.pdf
-├── CS229_SupervisedLearning_and_LearningTheory.docx (*)
+├── CS229_Before_RL.docx (*)
+├── CS229_SupervisedLearning_and_LearningTheory.docx
 └── README.md
 ```
 PS: (*) mark means profile is not finished right now, will be updated continuously.
