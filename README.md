@@ -30,7 +30,7 @@ These are in programming language Octave/MATLAB.
 │   ├── ex5_ReadMe.txt
 │   ├── ex6_ReadMe.txt
 │   ├── ex7_ReadMe.txt
-│   └── ex8_ReadMe.txt (*)
+│   └── ex8_ReadMe.txt
 ├── machine-learning-ex1
 │   ├── ex1
 │   │   ├── computeCost.m
@@ -172,7 +172,7 @@ These are in programming language Octave/MATLAB.
 │   │   ├── submit.m
 │   │   └── token.mat
 │   └── ex7.pdf
-├── machine-learning-ex8 (*)
+├── machine-learning-ex8
 │   ├── ex8
 │   │   ├── checkCostFunction.m
 │   │   ├── cofiCostFunc.m
@@ -191,7 +191,6 @@ These are in programming language Octave/MATLAB.
 │   │   ├── normalizeRatings.m
 │   │   ├── selectThreshold.m
 │   │   ├── submit.m
-│   │   ├── token.mat
 │   │   └── visualizeFit.m
 │   └── ex8.pdf
 ├── CS229_Before_RL.docx (*)
