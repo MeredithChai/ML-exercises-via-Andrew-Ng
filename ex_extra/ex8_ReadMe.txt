@@ -21,6 +21,8 @@ Recommender Systems (Collaborative Filtering)
 
 Part7中做normalizeRatings目的是配合随机初始化X,Theta对Y进行normalization，加速收敛（用的时候记得加回Ymean）
 
+X与θ的迭代更新为同时更新！！！不可如：先求出X更新值→拿更新后的X计算新的cost→计算θ！
+
 PS：①跟神经网络那章练习相似，部分输入&输出会以列向量形式存储传递（fmincg寻最小值函数参数传递格式）
 ②注意正则化的正则项与计算cost项是分开的（千万不能写到求和式之中！），具体可见cs229笔记之中第50页利用贝叶斯公式的证明部分
 ③寻找第j个电影与第i个电影相关？ - 寻找较小的||x(i)-x(j)||值（比如算完从小到大排序，选出前X个）
